@@ -1,1 +1,1 @@
-test
+privileges = "rw"
