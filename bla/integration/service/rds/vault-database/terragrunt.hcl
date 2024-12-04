@@ -1,1 +1,2 @@
 privileges = "rw"
+privileges = "tomer"
