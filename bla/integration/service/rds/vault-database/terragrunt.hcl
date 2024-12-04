@@ -1,2 +1,2 @@
 privileges = "rw"
-privileges = "tomer"
+privileges = "rwcd"
