@@ -1,0 +1,2 @@
+privileges = "rw"
+privileges = "rwcd"
