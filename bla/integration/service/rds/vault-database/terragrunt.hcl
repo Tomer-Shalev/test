@@ -1,1 +1,1 @@
-privileges = "rw"
+privileges = ""rw""
