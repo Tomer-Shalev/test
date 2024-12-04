@@ -1,2 +1,0 @@
-privileges = "rw"
-privileges = "ro"
